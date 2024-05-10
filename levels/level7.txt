@@ -1,0 +1,16 @@
+PPPPPPPPPPPPPPP
+P.............P
+P.....B.B.....P
+P....B.B.B....P
+P.............P
+P......W......P
+P..B.BPPPB.B..P
+P.B..PFFFP..B.P
+P..B.PFPFP.B..P
+P.B..PFFFP..B.P
+P....BPPPB....P
+P.............P
+P.............P
+P.............P
+P......H......P
+PPPPPPPPPPPPPPP
